@@ -1,0 +1,15 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "api to work with the database",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Volitair",
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^7.17.0",
+    "pg": "^8.5.1"
+  }
+}
